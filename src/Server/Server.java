@@ -10,7 +10,6 @@ public class Server {
 	public static String byeMsg = "Sieve-Server is closed! Good bye!";
 	
 	public static void main(String[] args)throws IOException {
-		// TODO Auto-generated method stub
 		
 		/*
 		 * Initialization block

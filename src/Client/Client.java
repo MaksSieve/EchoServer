@@ -12,7 +12,6 @@ public class Client {
 	
 	@SuppressWarnings("resource")
 	public static void main(String[] args)throws IOException  {
-		// TODO Auto-generated method stub
 		Socket Server = null;
 		int port;
 		Scanner sc;
